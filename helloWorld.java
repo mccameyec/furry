@@ -6,11 +6,11 @@
 
 //tell me whats new
 
-package helloworld;
+//package helloworld;
 
 public class helloWorld {
 
     public static void main(String[] args) {
-        system.out.println("Hello World!");
+        System.out.println("Hello World!");
     }
 }
